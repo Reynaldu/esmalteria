@@ -17,7 +17,7 @@ document.getElementById("form-agendamento").addEventListener("submit", function(
         const url = `https://wa.me/5524999912627?text=${encodeURIComponent(mensagem)}`;  // Substitua 5599999999999 pelo número da manicure
 
         // Redireciona o usuário para o WhatsApp
-        window.open(URL, "_blank");
+        window.open(url, "_blank");
     } else {
         alert("Por favor, preencha todos os campos.");
     }
