@@ -14,7 +14,10 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
     width: 350px;
+   
 }
+
+
 
 h1 {
     text-align: center;
@@ -40,9 +43,11 @@ input, select {
 }
 
 button {
+    width: 150px;
+    margin-left: 90px;
     margin-top: 20px;
     padding: 12px;
-    background-color: #25d366;
+    background-color: #aa25d3;
     color: white;
     border: none;
     border-radius: 5px;
@@ -51,5 +56,8 @@ button {
 }
 
 button:hover {
-    background-color: #1ebe57;
+    background-color: #7a0e5f;
 }
+ img{
+    margin-left: 60px
+ }
