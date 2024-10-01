@@ -14,7 +14,7 @@ document.getElementById("form-agendamento").addEventListener("submit", function(
         const mensagem = `Olá, meu nome é ${nome}. Gostaria de agendar um serviço de ${servico} para o dia ${data} às ${hora}. Meu WhatsApp é: ${whatsapp}.`;
 
         // Substitui espaços na URL e codifica os caracteres
-        const url = `https://wa.me/5531987811216?text=${encodeURIComponent(mensagem)}`;  // Substitua 5599999999999 pelo número da manicure
+        const url = `https://wa.me/5524999912627?text=${encodeURIComponent(mensagem)}`;  // Substitua 5599999999999 pelo número da manicure
 
         // Redireciona o usuário para o WhatsApp
         window.open(url, "_blank");
