@@ -12,9 +12,9 @@ body {
     background-color: white;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 15px rgba(10, 10, 10, 0.6);
     width: 350px;
-   
+ 
 }
 
 
@@ -61,3 +61,24 @@ button:hover {
  img{
     margin-left: 60px
  }
+
+.rodape{
+    background-color:  #aa25d3;
+    color: #f3f3f3;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 0px 0;   
+}
+
+a {
+    text-decoration: none;
+    color: #f3f3f3;
+    font-size:19px;
+}
+a:hover{
+    color:  #7a0e5f;
+}
+
