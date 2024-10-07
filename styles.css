@@ -71,6 +71,7 @@ button:hover {
     width: 100%;
     text-align: center;
     padding: 0px 0;   
+    
 }
 
 a {
@@ -79,4 +80,13 @@ a {
     
 }
 
+.observacao{
+    background-color: white;
+    width: 300px;
+}
+
+.observacao p{
+    font-size: 14px;
+    font-weight: bolder;
+}
 
