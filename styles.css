@@ -11,10 +11,10 @@ body {
 .container {
     background-color: white;
     padding: 20px;
-    margin-bottom: 120px;
+    margin-bottom: 90px;
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(10, 10, 10, 0.6);
-    width: 300px;
+    width: 330px;
  
 }
 
@@ -82,10 +82,12 @@ a {
 
 .aviso{
     margin-top: 10px;
+    margin-left: 60px;
     border-radius: 5px;
     padding: 5px;
     background-color: #e7e40a;
-    width: ;
+    width: 200px;
+    
 }
 
 .aviso .dias {
