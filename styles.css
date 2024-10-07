@@ -11,6 +11,7 @@ body {
 .container {
     background-color: white;
     padding: 20px;
+    margin-bottom: 70px;
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(10, 10, 10, 0.6);
     width: 350px;
