@@ -14,7 +14,7 @@ body {
     margin-bottom: 120px;
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(10, 10, 10, 0.6);
-    width: 350px;
+    width: 300px;
  
 }
 
@@ -80,4 +80,16 @@ a {
     
 }
 
+.aviso{
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #e7e40a;
+    width: ;
+}
 
+.aviso .dias {
+    font-size: 15px;
+    font-weight:bolder;
+    text-align: center;
+}
