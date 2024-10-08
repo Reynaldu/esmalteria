@@ -85,7 +85,7 @@ a {
     margin-left: 90px;
     border-radius: 5px;
     padding: 5px;
-    background-color: #e7e40a;
+    background-color: #7a0e5f;
     width: 140px;
     
 }
@@ -95,3 +95,8 @@ a {
     font-weight:bolder;
     text-align: center;
 }
+
+.aviso > p{
+    color: #ddd;
+}
+
