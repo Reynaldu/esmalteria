@@ -82,16 +82,16 @@ a {
 
 .aviso{
     margin-top: 10px;
-    margin-left: 60px;
+    margin-left: 90px;
     border-radius: 5px;
     padding: 5px;
     background-color: #e7e40a;
-    width: 200px;
+    width: 140px;
     
 }
 
 .aviso .dias {
-    font-size: 15px;
+    font-size: 12px;
     font-weight:bolder;
     text-align: center;
 }
